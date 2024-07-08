@@ -8,3 +8,6 @@ payload:
   - DOMAIN-KEYWORD, yqc-premium
   - DOMAIN-KEYWORD, clashofclans
   - DOMAIN-KEYWORD,termux
+  - DOMAIN,steamcdn-a.akamaihd.net,DIRECT
+  - DOMAIN-SUFFIX,steamserver.net,DIRECT
+  - DOMAIN-SUFFIX,steamserver.net,DIRECT
