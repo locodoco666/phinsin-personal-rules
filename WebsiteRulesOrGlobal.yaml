@@ -5,7 +5,6 @@ payload:
   - DOMAIN-SUFFIX,picawang.com
   - DOMAIN-KEYWORD,wuqianun
   - DOMAIN-KEYWORD,pianbar
-  - DOMAIN-KEYWORD,qidian
   - DOMAIN-KEYWORD,nodeseek
   - DOMAIN-KEYWORD,sleazyfork
   - DOMAIN-KEYWORD,googletranslate
@@ -16,6 +15,7 @@ payload:
   - DOMAIN-KEYWORD,torrentkitty
   - DOMAIN-KEYWORD,avsox
   - DOMAIN-SUFFIX,suburl.v1.mk
+  - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,1mei.live
   - DOMAIN-SUFFIX,subapi.v1.mk
   - DOMAIN-SUFFIX,temp-mail.org
