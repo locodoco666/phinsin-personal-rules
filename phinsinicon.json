@@ -1,0 +1,21 @@
+{
+  "name": "TG频道@Loon_Quanx 作者离歌",
+  "icons": [
+    {
+      "name": "xiaohongshu",
+      "url": "https://raw.githubusercontent.com/Phinsin-personal/phinsin-personal-rules/refs/heads/main/Icon/xiaohongshu.png"
+    },
+    {
+      "name": "dls",
+      "url": "https://raw.githubusercontent.com/Phinsin-personal/phinsin-personal-rules/refs/heads/main/Icon/dls.png"
+    },
+    {
+      "name": "finger",
+      "url": "https://raw.githubusercontent.com/Phinsin-personal/phinsin-personal-rules/refs/heads/main/Icon/finger.png"
+    },
+    {
+      "name": "mzbi",
+      "url": "https://raw.githubusercontent.com/Phinsin-personal/phinsin-personal-rules/refs/heads/main/Icon/mzbi.png"
+    }
+  ]
+}
