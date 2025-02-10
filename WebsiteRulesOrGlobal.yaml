@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,suburl.v1.mk
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,1mei.live
+  - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,subapi.v1.mk
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,temp-mail.org
