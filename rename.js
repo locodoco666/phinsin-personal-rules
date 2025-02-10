@@ -243,7 +243,7 @@ function operator(pro) {
       if (match) {
         const rev = match[0].match(/(\d[\d.]*)/)[0];
         if (rev !== "1") {
-          const newValue = rev + "×";
+          const newValue = rev + "倍率";
           ikey = newValue;
         }
       }
