@@ -23,10 +23,5 @@ payload:
   - DOMAIN-SUFFIX,temp-mail.org
   - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-KEYWORD,githubusercontent
-  - DOMAIN-SUFFIX,supercell.com
-  - DOMAIN-SUFFIX,supercell.net
-  - DOMAIN-SUFFIX,supercellgames.com
-  - DOMAIN,game.boombeachgame.com
-  - DOMAIN,game.clashofclans.com
-  - DOMAIN,game.clashroyaleapp.com
+
 
