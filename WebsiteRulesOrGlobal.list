@@ -23,4 +23,9 @@ DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-KEYWORD,githubusercontent
-DOMAIN-SUFFIX,game.boombeachgame.com
+DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,supercell.net
+DOMAIN-SUFFIX,supercellgames.com
+DOMAIN,game.boombeachgame.com
+DOMAIN,game.clashofclans.com
+DOMAIN,game.clashroyaleapp.com
