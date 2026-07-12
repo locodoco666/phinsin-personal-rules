@@ -8,9 +8,7 @@ payload:
   - DOMAIN-KEYWORD,pianbar
   - DOMAIN-KEYWORD,nodeseek
   - DOMAIN-SUFFIX,pansearch.me
-  - DOMAIN-SUFFIX,suburl.v1.mk
   - DOMAIN-SUFFIX,1mei.live
-  - DOMAIN-SUFFIX,subapi.v1.mk
   - DOMAIN-SUFFIX,temp-mail.org
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,greasyfork.org
